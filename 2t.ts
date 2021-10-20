@@ -9,7 +9,7 @@ function  updateObjectInArray<T>(
   }
 
  /// Test
- let arr = [{id:1, name:'ddd'}, {id:2, name:'2ddd'}]
+ let arr = [{id:1, name:'ira'}, {id:2, name:'2ira'}]
 
  type Obc = {
      id:number;
